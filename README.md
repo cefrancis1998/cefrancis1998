@@ -7,7 +7,7 @@ I specialize in **scalable app architecture**, **clean code**, **system design**
 
 ## 🛠 Core Skills
 
-- **Languages:** Swift, Kotlin, Rust, Go  
+- **Languages:** Swift, Kotlin, Rust 
 - **Mobile:** SwiftUI, UIKit, XML, Clean Architecture, Modularization  
 - **Tooling:** GitKraken, App Store Connect, CI/CD, AI pair programming (Claude Code & Warp AI)
 
@@ -17,7 +17,7 @@ I specialize in **scalable app architecture**, **clean code**, **system design**
 
 - Designing architecture for scalable mobile apps  
 - Building mobile-first backend systems with **Rust**  
-- Exploring **GraphQL**, **PostgreSQL**, and Rust & Go APIs  
+- Exploring **GraphQL**, **PostgreSQL**, and Rust APIs  
 - Studying **system design principles** and distributed architecture  
 - Using AI tools to accelerate feature planning and code generation  
 - Improving **testing practices** and **CI/CD pipelines**  
