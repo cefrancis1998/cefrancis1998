@@ -7,6 +7,19 @@ I specialize in scalable app architecture, clean code, system design, and using 
 
 ## 🛠️ Core Skills
 - **Languages:** Swift, Kotlin, Rust, Go
-- **Mobile:** SwiftUI, Jetpack Compose, Clean Architecture, Modularization
-- **Backend:** REST, GraphQL, PostgreSQL, Rust & Go APIs
-- **Tooling:** GitHub Actions, Fastlane, Snapshot Testing, AI pair programming
+- **Mobile:** SwiftUI, UIKit, XML, Clean Architecture, Modularization
+- **Tooling:** GitKraken, App Store Connect, AI pair programming (Claude Code & Warp AI)
+
+---
+
+## 🔥 Current Focus
+- Learning Rust for mobile-first backend systems
+- Designing architecture for scalable apps
+- GraphQL, PostgreSQL, Rust & Go APIs
+- Studying system design principles
+- Using AI to accelerate planning and code generation
+- Testing
+- CI/CD
+- Jetpack Compose
+
+- 📫 Reach out: [LinkedIn](https://linkedin.com/in/cefrancis1998) • [Website/Portfolio](www.linkedin.com/in/christian-francis-838860286)
