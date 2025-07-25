@@ -27,4 +27,3 @@ I specialize in **scalable app architecture**, **clean code**, **system design**
 
 - 📫 Reach out
 -  [LinkedIn](https://linkedin.com/in/cefrancis1998)
--  [Website/Portfolio](www.linkedin.com/in/christian-francis-838860286)
