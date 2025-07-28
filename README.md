@@ -1,7 +1,9 @@
-# 👋 Christian | Mobile Developer & Future Architect
+# 👋 Christian | Mobile Architect
 
-I'm a native iOS & Android developer based in Montreal, currently growing into a Mobile Architect role.  
+I'm a native iOS & Android developer based in Montreal, currently growing into a Mobile Architect role. Since taking over the full mobile life-cycle of our company i've been able to best align myself in understanding the technologies that make mobile so great and an important aspect of all of our lives. Come and follow me on the journey into the world of mobile development.
 I specialize in **scalable app architecture**, **clean code**, and **AI-assisted development workflows**.
+
+I am aware that the projects here are bare and honestly do not reflect what i am capable of, i've been so focused on my career that updating my github was never a priority but in the near future I will be updating this will all the projects and concepts I am proud of.
 
 ---
 
