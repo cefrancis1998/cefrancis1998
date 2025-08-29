@@ -18,7 +18,7 @@ I am aware that the projects here are bare and honestly do not reflect what i am
 ## 🔥 Current Focus
 
 - Designing architecture for scalable mobile apps  
-- Building mobile-first backend systems with **Rust**  
+- Building mobile-first backend systems with **Go**  
 - Exploring **GraphQL**, **PostgreSQL**, and Go APIs  
 - Studying **system design principles** and distributed architecture  
 - Using AI tools to accelerate feature planning and code generation  
