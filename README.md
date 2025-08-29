@@ -9,7 +9,7 @@ I am aware that the projects here are bare and honestly do not reflect what i am
 
 ## 🛠 Core Skills
 
-- **Languages:** Swift, Kotlin, Rust 
+- **Languages:** Swift, Kotlin, Go 
 - **Mobile:** SwiftUI, UIKit, XML, Clean Architecture, Modularization  
 - **Tooling:** GitKraken, App Store Connect, AI pair programming (Claude Code & Warp AI)
 
@@ -19,7 +19,7 @@ I am aware that the projects here are bare and honestly do not reflect what i am
 
 - Designing architecture for scalable mobile apps  
 - Building mobile-first backend systems with **Rust**  
-- Exploring **GraphQL**, **PostgreSQL**, and Rust APIs  
+- Exploring **GraphQL**, **PostgreSQL**, and Go APIs  
 - Studying **system design principles** and distributed architecture  
 - Using AI tools to accelerate feature planning and code generation  
 - Improving **testing practices** and **CI/CD pipelines**  
